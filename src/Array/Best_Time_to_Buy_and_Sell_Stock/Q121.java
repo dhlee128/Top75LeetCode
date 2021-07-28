@@ -1,9 +1,5 @@
 package Array.Best_Time_to_Buy_and_Sell_Stock;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 //121. Best Time to Buy and Sell Stock
 public class Q121 {
 
