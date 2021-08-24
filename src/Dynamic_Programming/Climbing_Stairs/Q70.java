@@ -1,7 +1,7 @@
-package Dynamic_Programming;
+package Dynamic_Programming.Climbing_Stairs;
 
 //70. Climbing Stairs
-public class Climbing_Stairs {
+public class Q70 {
     public static void main(String[] args) {
         int n=3;
         System.out.println(climbStairs2(n));

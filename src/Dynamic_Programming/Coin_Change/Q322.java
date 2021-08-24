@@ -1,8 +1,8 @@
-package Dynamic_Programming;
+package Dynamic_Programming.Coin_Change;
 
 import java.util.Arrays;
 //322. Coin Change
-public class Coin_Change {
+public class Q322 {
 
     public static void main(String[] args) {
         int[] coins={1,2147483647};
